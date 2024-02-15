@@ -1,0 +1,16 @@
+ .invoice_item div {
+   margin-top: 15px;
+ }
+
+ .invoice_Data div {
+   margin-top: 15px;
+ }
+
+ .invoice_Data div input {
+   width: 80px;
+   height: 30px;
+ }
+
+ .table table th {
+   background-color: blue;
+ }
